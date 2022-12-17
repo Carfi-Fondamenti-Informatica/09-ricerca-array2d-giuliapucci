@@ -15,7 +15,7 @@ int main(){
   for (int x=0; x<20; x++) {
     nome[x]=' ';
   }
-  for (int i=0; i<10; i++) {
+  for (int i=0; i<10; ++i) {
     cin >> lista[i];
   }
   for (int x=0; x<10; x++) {
