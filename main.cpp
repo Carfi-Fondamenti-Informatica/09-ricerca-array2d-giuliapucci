@@ -19,9 +19,6 @@ int main(){
     cin >> lista[i];
   }
   for (int x=0; x<10; x++) {
-    cin >> lista[i];
-  }
-  for (int x=0; x<10; x++) {
     cout << lista[x] << endl;
   }
   cin >> nome;
